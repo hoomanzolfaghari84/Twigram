@@ -1,2 +1,2 @@
 # Twigram
-a personal project for the purpose of resume and learning. 
+a personal project for the purposes of resume and learning. 
